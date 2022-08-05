@@ -1,5 +1,7 @@
 Clone project: git clone https://github.com/nguyentu98lt/restaurantapp
 
+Db name:restaurant
+
 Laravel migrate: php artisan migrate
 
 Seed DB: php artisan db:seed
