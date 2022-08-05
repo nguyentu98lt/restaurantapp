@@ -1,1 +1,0 @@
-Clone project: git clone 
