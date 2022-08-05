@@ -6,4 +6,5 @@ Seed DB: php artisan db:seed
 
 Login:
 nguyentu98lt@gmail.com 123456
+
 nguyentu98@gmail.com 123456
